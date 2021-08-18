@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+canvas {
+    touch-action:  auto;
+}
+
+.cardsContainer {
+    width: 950px;
+    height: 400px;
+    background-color: aqua;
+}
